@@ -9,6 +9,6 @@ Simple authentication with Passport for template with Redis with Twitter, Facebo
 
 * Node.js
 * Express
-* Passport
+* Passport 
 * Redis
 
