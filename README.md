@@ -4,7 +4,7 @@ Authentication with Node, Express, Passport, Redis, Mocha, Chai and Sinon.
 
 ## Purpose :
 
-Simple authentication with Passport for template with Redis with Twitter, Facebook, Google and LinkedIn ready for use in projects as a application template.
+Simple template with Passport, Redis, Mocha and Chai for testing. You can also add Twitter, Facebook, Google and LinkedIn ready Strategies for Passport.
 
 ## Used :
 
