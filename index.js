@@ -3,9 +3,10 @@ const app = express();
 const passport = require('passport');
 const session = require('express-session');
 const RedisStore = require('connect-redis')(session);
-
+const appIndex = require("./app/index");
 const port = 3000;
 
+//redis store
 app.use(session({  
   store: new RedisStore({
     url: config.redisStore.url
